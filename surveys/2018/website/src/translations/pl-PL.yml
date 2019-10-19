@@ -509,7 +509,7 @@ translations:
     - key: block.description.text_editors
       t: Edytory tekstu, uszeregowane wg ilości wskazań.
     - key: block.title.recommended_resources
-      t: Polecane zasoby
+      t: Polecane materiały
     - key: block.title.opinion-js_moving_in_right_direction
       t: JavaScript rozwija się we właściwym kierunku
     - key: block.description.opinion-js_moving_in_right_direction
